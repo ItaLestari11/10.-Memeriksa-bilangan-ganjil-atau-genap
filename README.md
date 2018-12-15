@@ -1,0 +1,1 @@
+# 10.-Memeriksa-bilangan-ganjil-atau-genap
